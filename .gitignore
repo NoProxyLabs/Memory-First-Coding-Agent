@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+*.db
+investment-research-bot
+IRB
